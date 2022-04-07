@@ -1,1 +1,1 @@
-# Hyperspectral_Imaging_Firmness
+# Hyperspectral_Imaging
